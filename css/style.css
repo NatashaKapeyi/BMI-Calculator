@@ -39,7 +39,13 @@
         border: none;
         background-color: burlywood;
         color: white;
-
-
+        font-size: 20px;
+}
+    .heading{
+        margin-bottom: 50px;
     }
-
+ 
+    div.result{
+        margin-top: 20px;
+        font-size: 20px;
+    }
